@@ -1,4 +1,4 @@
-package referentiel_pokemons_dao;
+package referentiel_pokemon_dao;
 
 import java.util.List;
 
